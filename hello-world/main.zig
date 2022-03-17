@@ -1,4 +1,3 @@
-// https://ziglang.org/documentation/master/#Hello-World
 const std = @import("std");
 
 pub fn main() !void {
